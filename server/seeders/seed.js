@@ -1,27 +1,20 @@
 const db = require('../config/connection');
-const { User, Thought } = require('../models');
-const userSeeds = require('./userSeeds.json');
-const thoughtSeeds = require('./thoughtSeeds.json');
+const { User, ElectricCompany, Consumption } = require('../models');
+const energyBreakdownSeeds = require('./energyBreakdownSeeds.json')
 const cleanDB = require('./cleanDB');
 
 db.once('open', async () => {
   try {
-    await cleanDB('Thought', 'thoughts');
+    await cleanDB('ElectricCompany', 'electricCompany');
     await cleanDB('User', 'users');
-
+    await cleanDB('Consumption', 'consumption')
     await User.create(userSeeds);
+    await ElectricCompany.create(energyBreakdownSeeds);
 
-    for (let i = 0; i < thoughtSeeds.length; i++) {
-      const { _id, thoughtAuthor } = await Thought.create(thoughtSeeds[i]);
-      const user = await User.findOneAndUpdate(
-        { username: thoughtAuthor },
-        {
-          $addToSet: {
-            thoughts: _id,
-          },
-        }
-      );
+    for (let i = 0; i < energyBreakdownSeeds.length; i++) {
+      const { _id, companyName } = await ElectricCompany.create(energyBreakdownSeeds[i]);
     }
+    
   } catch (err) {
     console.error(err);
     process.exit(1);
