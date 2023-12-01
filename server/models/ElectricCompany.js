@@ -1,45 +1,52 @@
 const { Schema, model } = require('mongoose');
 const dateFormat = require('../utils/dateFormat');
 
-const thoughtSchema = new Schema({
-  thoughtText: {
+const companySchema = new Schema({
+  companyName: {
     type: String,
-    required: 'You need to leave a thought!',
-    minlength: 1,
-    maxlength: 280,
-    trim: true,
   },
-  thoughtAuthor: {
-    type: String,
-    required: true,
-    trim: true,
+  sourceBreakdown: {
+    coal: {
+      type: Number
+    },
+    hydro: {
+      type: Number
+    },
+    naturalGas: {
+      type: Number
+    },
+    nuclear: {
+      type: Number
+    },
+    nuclearOther: {
+      type: Number
+    },
+    oil: {
+      type: Number
+    },
+    other: {
+      type: Number
+    },
+    renewables: {
+      type: Number
+    },
+    solar: {
+      type: Number
+    },
+    wind: {
+      type: Number
+    },
+},
+  dataSource: {
+    type: String
   },
   createdAt: {
     type: Date,
     default: Date.now,
     get: (timestamp) => dateFormat(timestamp),
   },
-  comments: [
-    {
-      commentText: {
-        type: String,
-        required: true,
-        minlength: 1,
-        maxlength: 280,
-      },
-      commentAuthor: {
-        type: String,
-        required: true,
-      },
-      createdAt: {
-        type: Date,
-        default: Date.now,
-        get: (timestamp) => dateFormat(timestamp),
-      },
-    },
-  ],
 });
 
-const Thought = model('Thought', thoughtSchema);
+const ElectricCompany = model('ElectricCompany', companySchema);
 
-module.exports = Thought;
+module.exports = ElectricCompany;
