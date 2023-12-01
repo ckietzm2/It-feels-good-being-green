@@ -24,6 +24,12 @@ const userSchema = new Schema({
       ref: 'Consumption',
     },
   ],
+  monthlyReport: [
+    {
+      type: Schema.Types.ObjectId,
+      ref: 'Report',
+    },
+  ],
 });
 
 userSchema.pre('save', async function (next) {
