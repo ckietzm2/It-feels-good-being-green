@@ -1,9 +1,13 @@
 const { Schema, model } = require('mongoose');
 
 const consumptionSchema = new Schema({
-  electricity: {
+  userId: {
     type: Number,
-  },
+    required: true,
+    },
+  electricity: {
+      type: Number,
+    },
   naturalGas: {
     type: Number,
   },
