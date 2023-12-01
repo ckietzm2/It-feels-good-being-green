@@ -4,7 +4,7 @@
         "sourceBreakdown": {
             "coal": 0.23,
             "natural gas": 0.11,
-            "nuclear/other": 0.04,
+            "nuclear": 0.04,
             "solar": 0.01,
             "wind": 0.61
         },
@@ -15,8 +15,8 @@
         "sourceBreakdown": {
             "coal": 0.32,
             "natural gas": 0.32,
-            "other": 0.08,
-            "renewables": 0.17,
+            "solar": 0.01,
+            "nuclear": 0.08,
             "wind": 0.11
         },
         "dataSource": "https://s201.q4cdn.com/991130938/files/doc_downloads/413350-Corporate-Profile-Broch.pdf"
@@ -25,8 +25,6 @@
         "name": "Ameren Illinois Energy Company",
         "sourceBreakdown": {
             "coal": 0.3,
-            "hydro": 0.02,
-            "oil": 0.01,
             "natural gas": 0.36,
             "nuclear": 0.15,
             "solar": 0.01,
@@ -38,23 +36,12 @@
         "name": "Commonwealth Edison",
         "sourceBreakdown": {
             "coal": 0.18,
-            "hydro": 0.01,
             "natural gas": 0.42,
             "nuclear": 0.33,
-            "other": 0.01,
             "solar": 0.01,
             "wind": 0.04
         },
         "dataSource": "https://www.comed.com/SiteCollectionDocuments/SafetyCommunity/Disclosure/Environmental_Disclosure_12_months_ending_03312023.pdf"
-    },
-    {
-        "name": "WPPI Energy",
-        "sourceBreakdown": {
-            "coal": 0.339,
-            "natural gas": 0.195,
-            "nuclear/other": 0.207,
-            "renewables": 0.259
-        },
-        "dataSource": "https://wppienergy.org/wp-content/uploads/resources/2022-Annual-Report.pdf"
     }
+  
 ]

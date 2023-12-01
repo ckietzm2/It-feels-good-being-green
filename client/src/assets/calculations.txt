@@ -1,0 +1,27 @@
+Mid American						
+Coal	0.23				KWH*.23*2.3	
+Natural Gas	0.11			KWH*.11*.97	
+Nuclear	0.04				KWH*.04*.0717	
+Solar 	0.01				KWH*.01*.1102	
+Wind	0.61				KWH*.61*.0243	
+						
+Alliant Energy						
+Coal	0.32				KWH*.32*2.3	
+Natural Gas	0.32			KWH*.32*.97	
+Nuclear	0.08				KWH*.08*.0717	
+Solar 	0.01				KWH*.01*.1102	
+Wind	0.11				KWH*.11*.0243	
+						
+Ameren						
+Coal	0.3				    KWH*.30*2.3	
+Natural Gas	0.36			KWH*.36*.97	
+Nuclear	0.15				KWH*.15*.0717	
+Solar 	0.01				KWH*.01*.1102	
+Wind	0.15				KWH*.15*.0243	
+						
+Commonwealth Edison						
+Coal	0.18				KWH*.18*2.3	
+Natural Gas	0.42			KWH*.42*.97	
+Nuclear	0.33				KWH*.33*.0717	
+Solar 	0.01				KWH*.01*.1102	
+Wind	0.04				KWH*.04*.0243	
