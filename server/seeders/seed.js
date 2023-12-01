@@ -11,10 +11,20 @@ db.once('open', async () => {
     await User.create(userSeeds);
     await ElectricCompany.create(energyBreakdownSeeds);
 
-    for (let i = 0; i < energyBreakdownSeeds.length; i++) {
+    for (let i = 0; i < consumptionSeeds.length; i++) {
       const { _id, companyName } = await ElectricCompany.create(energyBreakdownSeeds[i]);
     }
-    
+    for (let i = 0; i < thoughtSeeds.length; i++) {
+      const { _id, thoughtAuthor } = await Thought.create(thoughtSeeds[i]);
+      const user = await User.findOneAndUpdate(
+        { username: thoughtAuthor },
+        {
+          $addToSet: {
+            thoughts: _id,
+          },
+        }
+      );
+    }
   } catch (err) {
     console.error(err);
     process.exit(1);
