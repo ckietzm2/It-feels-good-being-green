@@ -2,9 +2,21 @@ const { Schema, model } = require('mongoose');
 
 const consumptionSchema = new Schema({
   userId: {
-    type: Number,
+    type: String,
     required: true,
     },
+  startDate: {
+    type: Date,
+    required: true,
+    default: Date.now,
+    get: (timestamp) => dateFormat(timestamp),
+  },
+  endDate: {
+    type: Date,
+    required: true,
+    default: Date.now,
+    get: (timestamp) => dateFormat(timestamp),
+  },
   electricity: {
       type: Number,
     },

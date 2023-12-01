@@ -1,6 +1,8 @@
 const db = require('../config/connection');
 const { User, ElectricCompany, Consumption } = require('../models');
-const energyBreakdownSeeds = require('./energyBreakdownSeeds.json')
+const userSeeds = require('./userSeeds.json');
+const energyBreakdownSeeds = require('./energyBreakdownSeeds.json');
+const consumptionSeeds = require('./consumptionSeeds.json');
 const cleanDB = require('./cleanDB');
 
 db.once('open', async () => {
@@ -10,20 +12,19 @@ db.once('open', async () => {
     await cleanDB('Consumption', 'consumption')
     await User.create(userSeeds);
     await ElectricCompany.create(energyBreakdownSeeds);
+    await Consumption.create(consumptionSeeds);
 
     for (let i = 0; i < consumptionSeeds.length; i++) {
-      const { _id, companyName } = await ElectricCompany.create(energyBreakdownSeeds[i]);
-    }
-    for (let i = 0; i < thoughtSeeds.length; i++) {
-      const { _id, thoughtAuthor } = await Thought.create(thoughtSeeds[i]);
+      const { _id, userId } = await Consumption.create(consumptionSeeds[i])
       const user = await User.findOneAndUpdate(
-        { username: thoughtAuthor },
+        { _id: userId },
         {
           $addToSet: {
-            thoughts: _id,
+            consumption: _id,
           },
         }
-      );
+      )
+
     }
   } catch (err) {
     console.error(err);
