@@ -18,16 +18,28 @@ const userSchema = new Schema({
     required: true,
     minlength: 5,
   },
-  consumption: [
+  electricConsumption: [
     {
       type: Schema.Types.ObjectId,
-      ref: 'Consumption',
+      ref: 'ElectricConsumption',
     },
   ],
-  monthlyReport: [
+  naturalGasConsumption: [
     {
       type: Schema.Types.ObjectId,
-      ref: 'Report',
+      ref: 'NaturalGasConsumption',
+    },
+  ],
+  gasolineConsumption: [
+    {
+      type: Schema.Types.ObjectId,
+      ref: 'GasolineConsumption',
+    },
+  ],
+  monthlySnapshot: [
+    {
+      type: Schema.Types.ObjectId,
+      ref: 'Snapshot',
     },
   ],
 });

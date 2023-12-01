@@ -1,0 +1,212 @@
+[
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "electricity": {
+            "kWh": 500,
+            "billDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "electricity": {
+            "kWh": 547,
+            "billDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "electricity": {
+            "kWh": 602,
+            "billDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "electricity": {
+            "kWh": 479,
+            "billDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "electricity": {
+            "kWh": 460,
+            "billDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "electricity": {
+            "kWh": 486,
+            "billDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "electricity": {
+            "kWh": 500,
+            "billDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "electricity": {
+            "kWh": 547,
+            "billDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "electricity": {
+            "kWh": 602,
+            "billDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "electricity": {
+            "kWh": 479,
+            "billDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "electricity": {
+            "kWh": 460,
+            "billDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "electricity": {
+            "kWh": 486,
+            "billDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "electricity": {
+            "kWh": 500,
+            "billDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "electricity": {
+            "kWh": 547,
+            "billDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "electricity": {
+            "kWh": 602,
+            "billDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "electricity": {
+            "kWh": 479,
+            "billDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "electricity": {
+            "kWh": 460,
+            "billDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "electricity": {
+            "kWh": 486,
+            "billDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "electricity": {
+            "kWh": 500,
+            "billDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "electricity": {
+            "kWh": 547,
+            "billDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "electricity": {
+            "kWh": 602,
+            "billDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "electricity": {
+            "kWh": 479,
+            "billDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "electricity": {
+            "kWh": 460,
+            "billDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "electricity": {
+            "kWh": 486,
+            "billDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "electricity": {
+            "kWh": 500,
+            "billDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "electricity": {
+            "kWh": 547,
+            "billDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "electricity": {
+            "kWh": 602,
+            "billDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "electricity": {
+            "kWh": 479,
+            "billDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "electricity": {
+            "kWh": 460,
+            "billDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "electricity": {
+            "kWh": 486,
+            "billDate": "November 13, 2023"
+        }
+    }
+]

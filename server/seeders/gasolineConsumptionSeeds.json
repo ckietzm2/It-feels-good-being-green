@@ -1,0 +1,212 @@
+[
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "gasoline": {
+            "gallons": 15,
+            "purchaseDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "gasoline": {
+            "gallons": 17,
+            "purchaseDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "gasoline": {
+            "gallons": 12,
+            "purchaseDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "gasoline": {
+            "gallons": 18,
+            "purchaseDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "gasoline": {
+            "gallons": 20,
+            "purchaseDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "gasoline": {
+            "gallons": 19,
+            "purchaseDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "gasoline": {
+            "gallons": 15,
+            "purchaseDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "gasoline": {
+            "gallons": 17,
+            "purchaseDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "gasoline": {
+            "gallons": 12,
+            "purchaseDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "gasoline": {
+            "gallons": 18,
+            "purchaseDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "gasoline": {
+            "gallons": 20,
+            "purchaseDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "gasoline": {
+            "gallons": 19,
+            "purchaseDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "gasoline": {
+            "gallons": 15,
+            "purchaseDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "gasoline": {
+            "gallons": 17,
+            "purchaseDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "gasoline": {
+            "gallons": 12,
+            "purchaseDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "gasoline": {
+            "gallons": 18,
+            "purchaseDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "gasoline": {
+            "gallons": 20,
+            "purchaseDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "gasoline": {
+            "gallons": 19,
+            "purchaseDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "gasoline": {
+            "gallons": 15,
+            "purchaseDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "gasoline": {
+            "gallons": 17,
+            "purchaseDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "gasoline": {
+            "gallons": 12,
+            "purchaseDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "gasoline": {
+            "gallons": 18,
+            "purchaseDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "gasoline": {
+            "gallons": 20,
+            "purchaseDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "gasoline": {
+            "gallons": 19,
+            "purchaseDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "gasoline": {
+            "gallons": 15,
+            "purchaseDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "gasoline": {
+            "gallons": 17,
+            "purchaseDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "gasoline": {
+            "gallons": 12,
+            "purchaseDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "gasoline": {
+            "gallons": 18,
+            "purchaseDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "gasoline": {
+            "gallons": 20,
+            "purchaseDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "gasoline": {
+            "gallons": 19,
+            "purchaseDate": "November 13, 2023"
+        }
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "naturalGas": {
+            "therms": 75,
+            "billDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "naturalGas": {
+            "therms": 50,
+            "billDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "naturalGas": {
+            "therms": 60,
+            "billDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "naturalGas": {
+            "therms": 90,
+            "billDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "naturalGas": {
+            "therms": 96,
+            "billDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea845537",
+        "naturalGas": {
+            "therms": 107,
+            "billDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "naturalGas": {
+            "therms": 75,
+            "billDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "naturalGas": {
+            "therms": 50,
+            "billDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "naturalGas": {
+            "therms": 60,
+            "billDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "naturalGas": {
+            "therms": 90,
+            "billDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "naturalGas": {
+            "therms": 96,
+            "billDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553a",
+        "naturalGas": {
+            "therms": 107,
+            "billDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "naturalGas": {
+            "therms": 75,
+            "billDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "naturalGas": {
+            "therms": 50,
+            "billDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "naturalGas": {
+            "therms": 60,
+            "billDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "naturalGas": {
+            "therms": 90,
+            "billDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "naturalGas": {
+            "therms": 96,
+            "billDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553e",
+        "naturalGas": {
+            "therms": 107,
+            "billDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "naturalGas": {
+            "therms": 75,
+            "billDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "naturalGas": {
+            "therms": 50,
+            "billDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "naturalGas": {
+            "therms": 60,
+            "billDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "naturalGas": {
+            "therms": 90,
+            "billDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "naturalGas": {
+            "therms": 96,
+            "billDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553c",
+        "naturalGas": {
+            "therms": 107,
+            "billDate": "November 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "naturalGas": {
+            "therms": 75,
+            "billDate": "June 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "naturalGas": {
+            "therms": 50,
+            "billDate": "July 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "naturalGas": {
+            "therms": 60,
+            "billDate": "August 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "naturalGas": {
+            "therms": 90,
+            "billDate": "September 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "naturalGas": {
+            "therms": 96,
+            "billDate": "October 13, 2023"
+        }
+    },
+    {
+        "userId": "65674fcd32e16ff7ea84553d",
+        "naturalGas": {
+            "therms": 107,
+            "billDate": "November 13, 2023"
+        }
+    }
+]
