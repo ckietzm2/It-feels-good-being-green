@@ -1,6 +1,9 @@
 const User = require('./User');
 const ElectricCompany = require('./ElectricCompany');
-const Consumption = require('./Consumption')
 const Snapshot = require('./Snapshot')
+const ElectricConsumption = require('./ElectricConsumption')
+const NaturalGasConsumption = require('./NaturalGasConsumption')
+const GasolineConsumption = require('./GasolineConsumption')
 
-module.exports = { User, ElectricCompany, Consumption, Snapshot };
+
+module.exports = { User, ElectricCompany, Snapshot, ElectricConsumption, NaturalGasConsumption, GasolineConsumption };
